@@ -8,9 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-Full CV Link
+<a href="https://drive.google.com/file/d/1iW49QfmphiJ7ZmDHBsqkDsZ1Q53sKhpH/view?usp=sharing" class="empty-link"> Link to Full CV </a>
 ======
-<a href="https://drive.google.com/file/d/1iW49QfmphiJ7ZmDHBsqkDsZ1Q53sKhpH/view?usp=sharing" class="empty-link"> Google Drive </a>
 
 Education
 ======
