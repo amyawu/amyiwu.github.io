@@ -8,6 +8,9 @@ redirect_from:
 ---
 
 {% include base_path %}
+Full CV Link
+======
+<a href="https://drive.google.com/file/d/1iW49QfmphiJ7ZmDHBsqkDsZ1Q53sKhpH/view?usp=sharing" class="empty-link"> Google Drive </a>
 
 Education
 ======
@@ -30,19 +33,41 @@ Mentorship (PRISEM) Lab
   * Designed initial 3D model spincoater parts via OnShape to provide realism for LithoReality
   * Supervisor: Dr. Jeremy A. Magruder Waisome
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+* Summer 2022: Visual Processing for MOBi, the ”Monster Bin” ‑ a robot that helps primary school children how to properly deal with their waste
+  * RWTH Aachen University iTec Lab
+  * Researched facial, mood, eye, upper body and gesture detection algorithms for human‑robotic interaction
+  * Created a visual processing algorithm from previous works
+  * Supervisor: Dr. Stefan Schiffer
+
+* Fall 2021: Instructor Perspectives on Non‑STEM Major Programming Fundamental Classes
+  * UF Engaging Learning Lab
+  * Researched programming fundamental curriculum courses from the top 50 largest universities.
+  * Supervisor: Dr. Jeremiah J. Blanchard
+
+* Summer 2021: UAV Image‑Based Obstacle Detection in Aquatic Environments
+  * Dartmouth College Reality and Robotics Lab
+  * Researched UAV obstacle and landscape detection algorithms to experiment on a ROS simulation
+  * Assembled a fundamental obstacle algorithm based on UAV recorded footage
+  * Supervisor: Dr. Alberto Quattrini Li
+
+* Spring 2021: Student
+Perspectives on the Impact of Online Camera‑based Proctoring System
+  * UF Engaging Learning Lab
+  * Analyzed student survey responses on the impact of online camera‑based proctoring systems
+  * Supervisor: Dr. Jeremiah J. Blanchard  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Software Development
+  * Python
+  * Java
+  * C++
+  * Unity 2D
+  * Unity 3D
+* Languages
+  * Cantonese
+  * English
+  * Spanish
+  * German
 
 Publications
 ======
