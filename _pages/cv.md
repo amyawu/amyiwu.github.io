@@ -25,7 +25,7 @@ Research Experience
 Mentorship (PRISEM) Lab
   * Researched potential algorithms for back‑end AI implementation
   * Prepared instructor survey questions on AI and course curriculum for application design and usage
-  * Supervisor: Dr. Jeremy A. Mag4ruder Waisome and Dr. Christan Grant
+  * Supervisor: Dr. Jeremy A. Magruder Waisome and Dr. Christan Grant
 
 * Summer 2023: LithoReality: Accessible and Affordable AR Photolithography Application
   * UF PRISEM Lab
