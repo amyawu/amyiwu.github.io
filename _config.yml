@@ -21,7 +21,7 @@ repository               : "amyawu/amyawu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "Amy Profile pic.jpg"
   name             : "Amy Wu"
   pronouns         : # example: "she/her"  
   bio              : "Ronald E. McNair Scholar"
