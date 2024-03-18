@@ -55,6 +55,7 @@ Perspectives on the Impact of Online Camera‑based Proctoring System
   * UF Engaging Learning Lab
   * Analyzed student survey responses on the impact of online camera‑based proctoring systems
   * Supervisor: Dr. Jeremiah J. Blanchard  
+  
 Skills
 ======
 * Software Development
