@@ -45,7 +45,7 @@ Mentorship (PRISEM) Lab
   * Supervisor: Dr. Jeremiah J. Blanchard
 
 * Summer 2021: UAV Image‑Based Obstacle Detection in Aquatic Environments
-  * <u> Dartmouth College Reality and Robotics Lab </u>
+  * <mark> Dartmouth College Reality and Robotics Lab </mark>
   * Researched UAV obstacle and landscape detection algorithms to experiment on a ROS simulation
   * Assembled a fundamental obstacle algorithm based on UAV recorded footage
   * Supervisor: Dr. Alberto Quattrini Li
