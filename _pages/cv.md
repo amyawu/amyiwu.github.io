@@ -11,21 +11,24 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Computer Science, University of Florida, 2025 (Expected)
+* Minor in Digital Arts and Sciences
+* Certificate in Artificial Intelligence Fundamentals
 
-Work experience
+Research Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Summer 2023 - Present: Guided Universal Training for Shark Segmentation
+  * UF Data Studio and Practitioners & Researchers Investigating Self‑Efficacy &
+Mentorship (PRISEM) Lab
+  * Researched potential algorithms for back‑end AI implementation
+  * Prepared instructor survey questions on AI and course curriculum for application design and usage
+  * Supervisor: Dr. Jeremy A. Mag4ruder Waisome and Dr. Christan Grant
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2023: LithoReality: Accessible and Affordable AR Photolithography Application
+  * UF PRISEM Lab
+  * Presented a research proposal on LithoReality for Ronald E. McNair SAEOPP Conference
+  * Designed initial 3D model spincoater parts via OnShape to provide realism for LithoReality
+  * Supervisor: Dr. Jeremy A. Magruder Waisome
 
 * Summer 2015: Research Assistant
   * Github University
